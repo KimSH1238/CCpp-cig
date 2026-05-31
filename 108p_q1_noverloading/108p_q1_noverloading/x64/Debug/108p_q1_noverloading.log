@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\USER\programming\c_cig\108p_q1_noverloading\108p_q1_noverloading\FileName.c(16,14): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\programming\c_cig\108p_q1_noverloading\108p_q1_noverloading\FileName.c(17,8): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  108p_q1_noverloading.vcxproj -> C:\Users\USER\programming\c_cig\108p_q1_noverloading\x64\Debug\108p_q1_noverloading.exe
