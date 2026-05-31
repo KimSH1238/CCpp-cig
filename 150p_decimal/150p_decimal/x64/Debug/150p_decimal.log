@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\USER\programming\c_cig\150p_decimal\150p_decimal\FileName.c(10,12): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  150p_decimal.vcxproj -> C:\Users\USER\programming\c_cig\150p_decimal\x64\Debug\150p_decimal.exe
