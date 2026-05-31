@@ -1,0 +1,5 @@
+﻿  FileName.c
+C:\Users\USER\programming\c_cig\deposit_interestrate_101p\deposit_interestrate_101p\FileName.c(25,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\USER\programming\c_cig\deposit_interestrate_101p\deposit_interestrate_101p\FileName.c(8,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\USER\programming\c_cig\deposit_interestrate_101p\deposit_interestrate_101p\FileName.c(9,16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  deposit_interestrate_101p.vcxproj -> C:\Users\USER\programming\c_cig\deposit_interestrate_101p\x64\Debug\deposit_interestrate_101p.exe

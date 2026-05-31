@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\USER\programming\c_cig\exchange_rate_102p\exchange_rate_102p\FileName.c(11,19): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\programming\c_cig\exchange_rate_102p\exchange_rate_102p\FileName.c(12,20): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  exchange_rate_102p.vcxproj -> C:\Users\USER\programming\c_cig\exchange_rate_102p\x64\Debug\exchange_rate_102p.exe
