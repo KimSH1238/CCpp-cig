@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\obj\Debug\net8.0\50p_elementat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\obj\Debug\net8.0\50p_elementat.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\obj\Debug\net8.0\50p_elementat.AssemblyInfo.cs
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\obj\Debug\net8.0\50p_elementat.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\bin\Debug\net8.0\50p_elementat.exe
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\bin\Debug\net8.0\50p_elementat.deps.json
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\bin\Debug\net8.0\50p_elementat.runtimeconfig.json
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\bin\Debug\net8.0\50p_elementat.dll
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\bin\Debug\net8.0\50p_elementat.pdb
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\obj\Debug\net8.0\50p_elementat.dll
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\obj\Debug\net8.0\refint\50p_elementat.dll
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\obj\Debug\net8.0\50p_elementat.pdb
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\obj\Debug\net8.0\50p_elementat.genruntimeconfig.cache
+C:\Users\USER\programming\c#\50p_elementat\50p_elementat\obj\Debug\net8.0\ref\50p_elementat.dll
